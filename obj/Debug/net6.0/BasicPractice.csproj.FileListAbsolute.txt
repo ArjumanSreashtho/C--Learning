@@ -1,0 +1,15 @@
+C:\Users\Newcomer\source\repos\BasicPractice\bin\Debug\net6.0\BasicPractice.exe
+C:\Users\Newcomer\source\repos\BasicPractice\bin\Debug\net6.0\BasicPractice.deps.json
+C:\Users\Newcomer\source\repos\BasicPractice\bin\Debug\net6.0\BasicPractice.runtimeconfig.json
+C:\Users\Newcomer\source\repos\BasicPractice\bin\Debug\net6.0\BasicPractice.dll
+C:\Users\Newcomer\source\repos\BasicPractice\bin\Debug\net6.0\BasicPractice.pdb
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.csproj.AssemblyReference.cache
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.AssemblyInfoInputs.cache
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.AssemblyInfo.cs
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.csproj.CoreCompileInputs.cache
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.dll
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\refint\BasicPractice.dll
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.pdb
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\BasicPractice.genruntimeconfig.cache
+C:\Users\Newcomer\source\repos\BasicPractice\obj\Debug\net6.0\ref\BasicPractice.dll
