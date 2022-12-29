@@ -3,6 +3,7 @@ using BasicPractice.Arrays;
 using BasicPractice.Strings;
 using BasicPractice.Loops;
 using BasicPractice.Decision_Making;
+using BasicPractice.Structure;
 
 namespace BasicPractice 
 {
@@ -13,13 +14,28 @@ namespace BasicPractice
             /*
              * Variable and Constant
              */
+            /*
+             * Input the radius of a circle and output the area of that circle (show 2 digit after decimal point)
+             * 
+             * Input: 5
+             * Output: 78.54
+             */
 
-            //VarAndConst.AreaOfCircle();
+            //Area.Run();
 
             /*
              * Decision Making
              */
-            LeapYear.Run();
+            /*
+             * Input a year and check if that year is a leap year or not
+             * 
+             * Input: 1996
+             * Output: 1996 is a leap year
+             * 
+             * Input: 1700
+             * Output: 1700 is not a leap year
+             */
+            //LeapYear.Run();
 
             /*
              * Loops
@@ -34,7 +50,7 @@ namespace BasicPractice
              * Input: 6455
              * Output: True
              */
-                //DigitSum.Run();
+            //DigitSum.Run();
 
             /*
              * Arrays
@@ -75,6 +91,23 @@ namespace BasicPractice
              *         c = 2
              */
             //CharacterCounter.Run();
+
+            /*
+             * Structure
+             */
+            /*
+             * Input a line. Count the number of characters in line.
+             * Note: Print the characters sequentially, how these are appeared in the original input
+             * 
+             * Input: abcc1a321
+             * Output: a = 2
+             *         b = 1
+             *         c = 2
+             *         1 = 2
+             *         3 = 1
+             *         2 = 1
+             */
+            //CharacterCounterMod.Run();
         }
 
         
